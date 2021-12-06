@@ -1,6 +1,8 @@
-Electronic scheme:
+**Electronic scheme:**
+<br><br>
 ![scheme](scheme.png)
 <br>
 
-PCB board design:
+**PCB board design:**
+<br><br>
 ![board](board.png)
