@@ -1,6 +1,6 @@
 # dmx-merger
 
-The practical part of my bachelor thesis, a device based on AVR microcontrollers, which joins two DMX512 signal streams together.
+A practical part of my bachelor thesis, a device based on AVR microcontrollers, which joins two DMX512 signal streams together.
 
 The project consists of 2 MCUs:
 - `ATmega324P` that serves as a *receiver*, and "master" controller in the device, and
